@@ -5,8 +5,14 @@ Where you can find a little about me and the documents or websites i use to lear
 
 
 <p align="center">
+<<<<<<< HEAD
   <img src="image/site1.jpeg" width="350" title="hover text">
   <img src="image/site2.jpeg" width="350" title="hover text">
   <img src="image/site3.jpeg" width="350" title="hover text">
   <img src="" width="350" alt="accessibility text">
 </p> 
+=======
+  <img src="" width="350" title="hover text">
+  <img src="" width="350" alt="accessibility text">
+</p> 
+>>>>>>> 90075bfcf7f9477ed067ff0063d94623b24941e5
