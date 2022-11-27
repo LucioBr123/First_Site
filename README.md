@@ -6,5 +6,6 @@ Where you can find a little about me and the documents or websites i use to lear
 
 <p align="center">
   <img src="image/site1.jpeg" width="350" title="hover text">
+  <img src="image/site2.jpeg" width="350" title="hover text">
   <img src="image/site3.jpeg" width="350" title="hover text">
   </p> 
